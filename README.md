@@ -1,4 +1,4 @@
-[ColorEcho]
+ColorEcho
 =================
 
 ColorEcho is a CLI tool for PHP to echo colored string.
